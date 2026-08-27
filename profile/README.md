@@ -3,8 +3,6 @@
   <img alt="Pluni" src="../lightModeLogo.png" width="230">
 </picture>
 
-# Pluni
-
 Dein akademisches Cockpit für Studium, Module, Noten und Mensa.
 
 Den aktuellen Stand könnt ihr immer hier sehen: **https://pluni.net**

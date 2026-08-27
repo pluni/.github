@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../darkModeLogo.png">
-  <img alt="Pluni" src="../lightModeLogo.png" width="96">
+  <img alt="Pluni" src="../lightModeLogo.png" width="230">
 </picture>
 
 # Pluni
